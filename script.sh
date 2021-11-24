@@ -13,6 +13,8 @@ echo "24.11.2021" > $last_name.txt
 grep "@" $name.txt
 
 
+
+
 main="Vatral"
 
 dir_1="BBB"
